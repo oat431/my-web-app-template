@@ -4,10 +4,11 @@
 
 - Vite
 - Vue3
-- Vue router
+- Vue Use
+- Vue Router
 - Vue Vuex
 - TailwindCSS
-- Daisy
+- Daisy UI
 
 ## Usage
 
